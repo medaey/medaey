@@ -2,6 +2,8 @@
 
 ### 💻 Systèmes
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/) 
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white)](https://alpinelinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows) 
 [![Hyper-V](https://img.shields.io/badge/Hyper-V-0078D6?style=flat&logo=windowsserver&logoColor=white)](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) 
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)](https://www.proxmox.com/) 
