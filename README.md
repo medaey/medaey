@@ -44,10 +44,6 @@
 ---
 
 ### 📊 Stats & Activité
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=medaey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medaey&layout=compact&theme=vue-dark&hide_border=true) |
-|---|---|
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=medaey&theme=vue-dark&hide_border=true)
 ---
 
