@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est medaey
+# 👋 Salut, moi c’est Médéric
 
 ### 💻 Systèmes
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/) 
